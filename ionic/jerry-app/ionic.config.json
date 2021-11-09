@@ -1,0 +1,7 @@
+{
+  "name": "jerry-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
